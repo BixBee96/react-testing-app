@@ -1,0 +1,24 @@
+{
+    "cSpell.ignoreWords": [
+        "cls",
+        "const",
+        "default",
+        "entry",
+        "export",
+        "fcp",
+        "fid",
+        "function",
+        "get",
+        "if",
+        "import",
+        "instanceof",
+        "lcp",
+        "on",
+        "perf",
+        "report",
+        "then",
+        "ttfb",
+        "vitals",
+        "web"
+    ]
+}

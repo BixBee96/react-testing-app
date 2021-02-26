@@ -2,7 +2,7 @@ import React from "react";
 
 function Nav() {
   return (
-    <nav>
+    <nav className="navBar">
       <span>Logo</span>
       <ul>
         <li>Home</li>
